@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DosBotones</string>
+    <string name="header_text">Aplicación de los buenos modales</string>
+    <string name="btn_gracias_text">Gracias</string>
+    <string name="btn_estornudar_text">Estornudar</string>
+    <string name="toast_gracias">DosBotones</string>
+    <string name="toast_estornudar">DosBotones</string>
+</resources>
