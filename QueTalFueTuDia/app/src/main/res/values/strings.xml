@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QueTalFueTuDia</string>
+    <string name="header_title">¿Qué tal fue tu día?</string>
+    <string name="respuesta1">Excelente</string>
+    <string name="respuesta2">Bueno</string>
+    <string name="respuesta3">Malo</string>
+    <string name="respuesta4">Pésimo</string>
+    <string name="btn_txt">Enviar</string>
+</resources>
